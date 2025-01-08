@@ -1,4 +1,6 @@
 # proxyguard
+![image](https://github.com/user-attachments/assets/173df816-7ee6-4f99-b2dd-8605188e2c02)
+
 ProxyGuard is a lightweight BungeeCord/Waterfall plugin that protects premium usernames on mixed-mode (online/offline) servers. It prevents cracked players from logging in with premium Minecraft usernames while allowing legitimate premium accounts to connect normally.
 
 
@@ -37,13 +39,15 @@ Screenshots:
 
 OnEnable:
 
-1734363220058.png
+![image](https://github.com/user-attachments/assets/5c886756-4271-4cb4-810b-d5e35adab33a)
+
 
 
 
 Commands:
 
-1734363272554.png
+![image](https://github.com/user-attachments/assets/1740604f-abe8-4d6b-a7da-3b499bbd38c1)
+
 
 
 
