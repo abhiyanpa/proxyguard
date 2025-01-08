@@ -81,7 +81,3 @@ Need help? Found a bug? Have a suggestion?
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request on our GitHub repository.
-
-## 📄 License
-
-[Insert your license information here]
